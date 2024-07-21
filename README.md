@@ -1,12 +1,12 @@
 # Flock
 To Accelerate Decentralised AI
-Website: https://www.flock.io/
-Discord: https://discord.gg/7eF2nzzK
-Twitter: https://x.com/flock_io
-Guide dev: https://docs.flock.io/flock-product/ai-arena
+\n Website: https://www.flock.io/
+\n Discord: https://discord.gg/7eF2nzzK
+\n Twitter: https://x.com/flock_io
+\n  Guide dev: https://docs.flock.io/flock-product/ai-arena
 
 ##################SETUP NODE VALIDATOR#####################
-# Install WSL1 with ubuntu22 on Windows:
+# Install WSL with ubuntu22 on Windows:
 wsl.exe --install
 
 # Install adacona on WLS
