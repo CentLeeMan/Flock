@@ -1,4 +1,4 @@
-# Flock
+# Flock - Mainnet
 To Accelerate Decentralised AI
  Website: https://www.flock.io/
  Discord: https://discord.gg/7eF2nzzK
